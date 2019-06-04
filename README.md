@@ -2,7 +2,7 @@
 
 ### first
 
-`$ npm install`
+`$ npm install`  
 `$ npm start`
 
 ### second
